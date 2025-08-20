@@ -1,2 +1,2 @@
 # MikeDrive
-Self-hosted file storage and sharing aplication 
+Self-hosted file storage and sharing application 
